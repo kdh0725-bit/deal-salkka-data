@@ -3,3 +3,5 @@
 !data/
 data/*
 !data/deals-latest.json
+secrets.sharelink.json
+token.sharelink.json
